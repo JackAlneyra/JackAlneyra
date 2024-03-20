@@ -1,2 +1,1 @@
-# Hello! Iam Jack! full stack developer
-# about me
+# hi my name is jack
