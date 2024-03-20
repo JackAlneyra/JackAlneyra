@@ -1,2 +1,2 @@
-# About mme
-Hello! Iam Jack! full stack developer
+# Hello! Iam Jack! full stack developer
+# about me
