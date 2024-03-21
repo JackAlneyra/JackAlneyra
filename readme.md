@@ -7,6 +7,8 @@ i am jacj and passionate full stack...
 
 hacer el cierre de la presentacion
 
+## skills
+
 ## technologies
 
 - html
