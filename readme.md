@@ -1,17 +1,23 @@
 # hi my name is jack
 
 ## about me
-i am jacj and passionate full stack...
+i am jack and passionate full stack...
 
 ## contact me
 
 hacer el cierre de la presentacion
 
-## family
-este es un ejemplo
+## skills
 
 ## technologies
 
 - html
 - css
 - js
+## languages
+- ingles
+- español
+- aleman
+- 
+## family
+este es un ejemplo
